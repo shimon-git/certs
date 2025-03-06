@@ -26,7 +26,7 @@
 - A. We can assume the cost of an azure service,
   using the azure pricing calculator.
 
-- Q. What the term "Capital Expenses" means?
+- Q. What is high availability, and what are the benefits?
 - A.
 
 - Q.
